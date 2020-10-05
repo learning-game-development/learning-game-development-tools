@@ -2,16 +2,11 @@
 
 Learning to use various game development tools and integrate them with game frameworks and engines.
 
-:heavy_check_mark: Completed  
-:o: Incomplete
+## Blender
 
-## Tiled
-
-- :o: [Introduction to Tiled](Introduction-to-tiled/)
-
-## Pixel Art Tutorials
-
-- :file_folder: [Pixel Art Tutorials](pixel-art-tutorials/)
+- :file_folder: [Learning Tiled](learning-tiled/)
+- :file_folder: [Learning Blender](learning-blender/)
+- :file_folder: [Learning Pixel Art](learning-pixel-art/)
 
 ## :page_with_curl: License
 
