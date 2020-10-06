@@ -10,6 +10,10 @@
 1. :o: [Blender 2.8 for beginners full course](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri) (YouTube)
 2. :o: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) (YouTube)
 
+## :books: eBooks
+
+- :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/)
+
 ## :memo: Version
 
 These files was created with Blender 2.90.1
