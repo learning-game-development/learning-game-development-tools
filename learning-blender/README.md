@@ -1,4 +1,4 @@
-# Learning Blender
+# :mortar_board: Learning Blender
 
 :link: [blender.org](https://www.blender.org/)
 
@@ -7,7 +7,7 @@
 
 ## :beginner: Tutorials
 
-1. :o: [Blender 2.8 for beginners full course](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri) (YouTube)
+1. :o: [Blender 2.8 for Complete Beginners](blender-28-for-beginners-full-course/)
 2. :o: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) (YouTube)
 
 ## :books: eBooks

@@ -1,5 +1,10 @@
-# Blender 2.8 for beginners full course
+# :mortar_board: Blender 2.8 for Complete Beginners
 
-## Part 1
+:link: [gabbitt.co.uk](https://gabbitt.co.uk/2.8-beginners-course-1.html)
 
-![Geometric Models](learning-blender-01.png)
+:heavy_check_mark: Completed  
+:o: Incomplete
+
+## :beginner: YouTube Course
+
+- :o: [LEVEL 1](level-01/)
