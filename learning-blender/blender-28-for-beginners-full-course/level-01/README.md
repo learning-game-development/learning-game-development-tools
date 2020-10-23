@@ -9,3 +9,7 @@
 ## Part 2
 
 ![Geometric Models](images/learning-blender-02.png)
+
+## Part 3
+
+![Geometric Models](images/learning-blender-03.png)
