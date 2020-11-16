@@ -4,4 +4,4 @@
 
 ## Design Practise Exercises
 
-1. Exercise | Design
+1. [Design-Practise-Exercises-01.odt](Exercise/)
