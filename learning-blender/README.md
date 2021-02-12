@@ -5,14 +5,18 @@
 :heavy_check_mark: Completed  
 :o: Incomplete
 
-## :beginner: Tutorials
+## :beginner: YouTube Courses
 
 1. :o: [Blender 2.8 for Complete Beginners](blender-28-for-beginners-full-course/)
-2. :o: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) (YouTube)
+2. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 ## :books: eBooks
 
 - :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/)
+
+## :beginner: Tutorials
+
+- [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) (Grease Pencil Tutorial on YouTube)
 
 ## :memo: Version
 
