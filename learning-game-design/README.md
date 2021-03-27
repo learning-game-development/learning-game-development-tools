@@ -1,5 +1,5 @@
-# Learning Game Design
+# :mortar_board: Learning Game Design
 
-## Books
+## :books: Books
 
-1. [Fundamentals of Game Design](fundamentals-of-game-design/)
+1. :file_folder: [Fundamentals of Game Design](fundamentals-of-game-design/)
