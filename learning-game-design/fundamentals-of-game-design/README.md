@@ -4,4 +4,4 @@
 
 ## Design Practise Exercises
 
-1. [Design-Practise-Exercises-01.odt](Exercise/)
+1. :file_folder: [Design-Practise-Exercises-01.odt](Exercise/)

@@ -1,8 +1,8 @@
-# :mortar_board: Learning Pixel Art
+# :mortar_board: Learning Aseprite
 
-## Pixel Art Rules
+## :beginner: YouTube Tutorials and Courses
 
-- Use the 2:1 Ratio for perfect isometric tiling
+1. [Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) by MortMort
 
 ## Images
 
