@@ -7,4 +7,4 @@
 
 ## Pixel Art Tutorials
 
-1. [pixel-art-tutorials/make-your-own-pixel-art](/make-your-own-pixel-art/)
+1. [make-your-own-pixel-art](pixel-art-tutorials/make-your-own-pixel-art/)

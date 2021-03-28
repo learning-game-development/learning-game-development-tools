@@ -1,12 +1,23 @@
 # :mortar_board: Learning Aseprite
 
+:link: [aseprite.org](https://www.aseprite.org/)
+
+:heavy_check_mark: Completed  
+:o: Incomplete
+
 ## :beginner: YouTube Tutorials and Courses
 
-1. [Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) by MortMort
+1. :o: [Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) by MortMort
+2. :heavy_check_mark: [An Aseprite Crash Course In 30 Minutes](https://www.youtube.com/watch?v=59Y6OTzNrhk) by AdamCYounis
+3. :o: [20 Hints and Tips for Aseprite [Aseprite Tutorial]](https://www.youtube.com/watch?v=va-sxKT4-qU) (Comp-3 Interactive)
 
 ## Images
 
 ![Isometric Tile Example](images/Isometric.png)
+
+## :memo: Version
+
+These files was created with Aseprite 1.2.25
 
 ## :page_with_curl: License
 
