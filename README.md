@@ -6,6 +6,7 @@ Learning to use various game development tools and integrate them with game fram
 
 - :file_folder: [Learning Tiled](learning-tiled/)
 - :file_folder: [Learning Blender](learning-blender/)
+- :file_folder: [Learning Inkscape](learning-inkscape/)
 - :file_folder: [Learning Pixel Art Tools](learning-pixel-art/)
 
 ## :page_with_curl: License
