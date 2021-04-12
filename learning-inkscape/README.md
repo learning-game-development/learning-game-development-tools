@@ -7,12 +7,12 @@
 
 ## :beginners: Tutorials
 
-- :o: [Inkscape: Guide to a Vector Drawing Program](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/index.php)
+- :o: [Inkscape: Guide to a Vector Drawing Program](quick-start-examples/) (Quick Start Tutorials)
 
 ## :beginners: YouTube Tutorials
 
-1.:heavy_check_mark: [Inkscape Basics: Wrapping Text Around A Circle](https://www.youtube.com/watch?v=XFFZXgBtNlg)
-2. :o: [Inkscape Basics: Triangles Made Simple](https://www.youtube.com/watch?v=JE0l0xDxA9c)
+1. :heavy_check_mark: [Inkscape Basics: Wrapping Text Around A Circle](https://www.youtube.com/watch?v=XFFZXgBtNlg)
+2. :heavy_check_mark: [Inkscape Basics: Triangles Made Simple](https://www.youtube.com/watch?v=JE0l0xDxA9c)
 
 ## :memo: Version
 
