@@ -8,12 +8,12 @@
 
 ## Part 2
 
-![Geometric Models](images/learning-blender-02.png)
+![Modeling](images/learning-blender-02.png)
 
 ## Part 3
 
-![Geometric Models](images/learning-blender-03.png)
+![Editing Meshes](images/learning-blender-03.png)
 
 ## Part 4
 
-![Geometric Models](images/learning-blender-04.png)
+![Materials](images/learning-blender-04.png)
