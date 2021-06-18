@@ -17,6 +17,7 @@
 ## :beginner: Quick Tutorials
 
 - :heavy_check_mark: [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) (Grease Pencil Tutorial on YouTube)
+- :o: [RPG graphics E01: Character model [Blender]](https://www.youtube.com/watch?v=aAO4C_8y0w8)
 
 ## :memo: Version
 
