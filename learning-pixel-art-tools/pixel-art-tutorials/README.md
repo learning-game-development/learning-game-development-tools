@@ -1,8 +1,11 @@
 # :mortar_board: Learning Pixel Art
 
-## Pixel Art Rules
+:notebook: [Pixel Art Notes and Tips](pixel-art-notes.md)
 
-- Use the 2:1 Ratio for perfect isometric tiling
+## :books: Pixel Art Books
+
+1. [Make Your Own Pixel Art](make-your-own-pixel-art/)
+2. Learning Pixel Art (Amazon Kindel)
 
 ## :page_with_curl: License
 
