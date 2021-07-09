@@ -7,14 +7,15 @@
 
 ## :beginner: YouTube Tutorials and Courses
 
-1. :o: [Blender 2.8 for Complete Beginners](blender-28-for-beginners-full-course/)
-2. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
+1. :o: [very basics - blender tutorials](https://www.youtube.com/playlist?list=PLn3ukorJv4vtUy-we5PXaR7V5P7YXUlHf) (Grant Abbitt)
+2. :o: [Blender 2.8 for Complete Beginners](blender-28-for-beginners-full-course/)
+3. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 ## :books: eBook Tutorials and Courses
 
-- :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/)
+- :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/) (Packt Publishing)
 
-## :beginner: Quick Tutorials
+## :beginner: YouTube Quick Tutorials
 
 - :heavy_check_mark: [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) (Grease Pencil Tutorial on YouTube)
 - :o: [RPG graphics E01: Character model [Blender]](https://www.youtube.com/watch?v=aAO4C_8y0w8)
