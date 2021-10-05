@@ -2,10 +2,13 @@
 
 :notebook: [Pixel Art Notes and Tips](pixel-art-notes.md)
 
+:heavy_check_mark: Completed  
+:o: Incomplete
+
 ## :books: Pixel Art Books
 
-1. [Make Your Own Pixel Art](make-your-own-pixel-art/)
-2. Learning Pixel Art (Amazon Kindel)
+1. :o: [Make Your Own Pixel Art](make-your-own-pixel-art/) -- Pysical Book
+2. :o: [Learning Pixel Art](learning-pixel-art/) -- Amazon Kindle
 
 ## :page_with_curl: License
 

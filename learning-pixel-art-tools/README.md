@@ -1,10 +1,7 @@
-# :mortar_board: Learning Pixel Art Tools
+# :mortar_board: Learning Pixel Art and the Tools
 
-## Pixel Art Tools
+## :beginner: Pixel Art Tools and Courses
 
 1. :file_folder: [Learning Aseprite](learning-aseprite/)
 2. :file_folder: [Learning Slate](learning-slate/)
-
-## Pixel Art Tutorials
-
-1. [make-your-own-pixel-art](pixel-art-tutorials/make-your-own-pixel-art/)
+3. :file_folder: [Pixel Art Courses](pixel-art-courses/)
