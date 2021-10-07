@@ -7,12 +7,14 @@
 
 ## :beginner: YouTube Tutorials and Courses
 
-1. :o: [Aseprite Tutorial For Beginners (Pixel Art)](https://www.youtube.com/watch?v=tFsETEP01k8) by Saultoons
+1. :heavy_check_mark: [Aseprite Tutorial For Beginners (Pixel Art)](https://www.youtube.com/watch?v=tFsETEP01k8) by Saultoons
 2. :heavy_check_mark: [An Aseprite Crash Course In 30 Minutes](https://www.youtube.com/watch?v=59Y6OTzNrhk) by AdamCYounis
 3. :o: [Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) by MortMort
 4. :o: [20 Hints and Tips for Aseprite [Aseprite Tutorial]](https://www.youtube.com/watch?v=va-sxKT4-qU) (Comp-3 Interactive)
 
 ## Images
+
+![Donut Tutorial](images/donut-tutorial.png)
 
 ![Isometric Tile Example](images/Isometric.png)
 
