@@ -1,4 +1,4 @@
-# :mortar_board: Blender 2.8 for beginners full course - LEVEL 1
+# :mortar_board: Blender 2.8 for beginners full course
 
 :link: [Blender 2.8 for beginners full course](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri) (YouTube)
 
