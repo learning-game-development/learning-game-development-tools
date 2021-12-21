@@ -1,10 +1,12 @@
 # :mortar_board: Blender 2.8 for Complete Beginners
 
-:link: [gabbitt.co.uk](https://gabbitt.co.uk/2.8-beginners-course-1.html)
+:link: [gabbitt.co.uk](https://gabbitt.co.uk/)
 
 :heavy_check_mark: Completed  
 :o: Incomplete
 
-## :beginner: YouTube Course
+## :beginner: YouTube Tutorials and Courses
 
-- :o: [LEVEL 1](level-01/)
+- :o: [Beginner Tutorials](level-01/)
+- :construction: [Intermediate Tutorials](level-02/)
+- :construction: [Advanced Tutorials](level-03/)
