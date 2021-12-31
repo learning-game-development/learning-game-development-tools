@@ -12,6 +12,10 @@
 3. :o: [Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) by MortMort
 4. :o: [20 Hints and Tips for Aseprite [Aseprite Tutorial]](https://www.youtube.com/watch?v=va-sxKT4-qU) (Comp-3 Interactive)
 
+## :beginner: Tileset Tutorials
+
+1. :heavy_check_mark: [Tileset Workflow (Pixel Art & Gamedev Tutorial)](https://www.youtube.com/watch?v=btnH0x7_1g8) by MortMort
+
 ## Images
 
 ![Donut Tutorial](images/donut-tutorial.png)
