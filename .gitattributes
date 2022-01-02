@@ -8,8 +8,8 @@ LICENSE         text
 .gitattributes  text
 
 # Aseprite
-*.aseprite binary
-*.ase binary
+*.aseprite  binary
+*.ase       binary
 
 ## Graphics
 *.gif  binary
