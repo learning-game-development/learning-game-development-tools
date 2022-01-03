@@ -11,8 +11,7 @@ Learning to use various game development tools and integrate them with game fram
 
 ## :page_with_curl: License
 
-Any source code is free -- see the [LICENSE](LICENSE) file for details
-
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 All the content was created by me, this include pixel art, 3D models and vector art, and is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
-![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+Any source code is free -- see the [LICENSE](LICENSE) file for details
