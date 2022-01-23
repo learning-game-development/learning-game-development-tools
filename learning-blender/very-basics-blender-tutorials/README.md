@@ -6,3 +6,4 @@
 
 ![Basic shapes model](images/basics.png)
 ![Basic modeling](images/modeling.png)
+![Model a simple car](images/model-simple-car.png)
