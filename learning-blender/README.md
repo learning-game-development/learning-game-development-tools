@@ -8,8 +8,9 @@
 ## :beginner: YouTube Tutorials and Courses
 
 1. :o: [very basics - blender tutorials](https://www.youtube.com/playlist?list=PLn3ukorJv4vtUy-we5PXaR7V5P7YXUlHf) (Grant Abbitt)
-2. :o: [Blender 2.8 for Complete Beginners](blender-28-for-beginners-full-course/)
+2. :o: [Learning Blender with Grant Abbitt](learning-blender-with-grant-abbitt/)
 3. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) the Donut tutorial by Blender Guru
+4. :o: [Blender Zero 2 Hero](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV23C2oBB3aFLla6ABAPYiDk)
 
 ## :books: eBook Tutorials and Courses
 
