@@ -4,5 +4,5 @@
 
 ## Basic Modeling with Shapes Tutorial
 
-![Basic shapes model](basics.png)
-![Basic modeling](modeling.png)
+![Basic shapes model](images/basics.png)
+![Basic modeling](images/modeling.png)

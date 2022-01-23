@@ -1,6 +1,6 @@
 # :mortar_board: Blender 2.8 for beginners full course
 
-:link: [Blender 2.8 for beginners full course](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri) (YouTube)
+:link: [Blender 2.8 for beginners full course][course] (YouTube)
 
 ## Part 1
 
@@ -17,3 +17,5 @@
 ## Part 4
 
 ![Materials](images/learning-blender-04.png)
+
+[course]: https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri
