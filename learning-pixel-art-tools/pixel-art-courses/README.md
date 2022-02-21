@@ -10,6 +10,10 @@
 1. :o: [Make Your Own Pixel Art](make-your-own-pixel-art/)
 2. :o: [Learning Pixel Art](learning-pixel-art/)
 
+## YouTube Tutorials
+
+- :heavy_check_mark: [Pixel Art Tutorial - How to start in PixelArt](https://youtu.be/7IADMv1xirE)
+
 ## :page_with_curl: License
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
