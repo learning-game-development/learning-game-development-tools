@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="ball.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="5.9295174"
+     inkscape:cx="53.714321"
+     inkscape:cy="47.643001"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="font-variation-settings:'wdth' 100, 'wght' 400;fill:#00ffcc;fill-opacity:1;stroke:none;stroke-width:2.88736;stroke-linejoin:round"
+       id="path950"
+       transform="rotate(-22.08918)"
+       sodipodi:type="arc"
+       sodipodi:cx="28.134783"
+       sodipodi:cy="66.0214"
+       sodipodi:rx="46"
+       sodipodi:ry="43"
+       sodipodi:start="0.7449333"
+       sodipodi:end="0.00039628698"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 61.950906,95.17208 A 46,43 0 0 1 3.7470409,102.48077 46,43 0 0 1 -14.707796,50.36516 46,43 0 0 1 36.665517,23.767297 46,43 0 0 1 74.134779,66.038441" />
+    <circle
+       style="font-variation-settings:'wdth' 100, 'wght' 400;fill:#0b2822;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:round"
+       id="path1155"
+       cx="51.859196"
+       cy="31.45281"
+       r="12.56426" />
+  </g>
+</svg>
