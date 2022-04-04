@@ -14,6 +14,10 @@
 1. :heavy_check_mark: [Inkscape Basics: Wrapping Text Around A Circle](https://www.youtube.com/watch?v=XFFZXgBtNlg)
 2. :heavy_check_mark: [Inkscape Basics: Triangles Made Simple](https://www.youtube.com/watch?v=JE0l0xDxA9c)
 
+## Online Courses
+
+1. :o: [Create Vector Game Artwork with Inkscape](create-vector-game-artwork/) -- Zenva Academy
+
 ## :memo: Version
 
 These files was created with Inkscape 1.0.1
