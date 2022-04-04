@@ -5,22 +5,30 @@
 :heavy_check_mark: Completed  
 :o: Incomplete
 
+## :beginner: Online Courses
+
+1. :construction: [The Art of Effective Rigging](/) -- P2Design Academy
+2. :construction: [Alive! animation course in Blender](/) -- P2Design Academy
+3. :construction: [The gameboy project](/) -- P2Design Academy
+4. :construction: [Real time Explosion in Blender](/) -- P2Design Academy
+
 ## :beginner: YouTube Tutorials and Courses
 
-1. :o: [very basics - blender tutorials](https://www.youtube.com/playlist?list=PLn3ukorJv4vtUy-we5PXaR7V5P7YXUlHf) (Grant Abbitt)
+1. :o: [very basics - blender tutorials](https://www.youtube.com/playlist?list=PLn3ukorJv4vtUy-we5PXaR7V5P7YXUlHf) -- Grant Abbitt
 2. :o: [Learning Blender with Grant Abbitt](learning-blender-with-grant-abbitt/)
-3. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) the Donut tutorial by Blender Guru
+3. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) -- the Donut tutorial by Blender Guru
 4. :o: [Blender Zero 2 Hero](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV23C2oBB3aFLla6ABAPYiDk)
 
 ## :books: eBook Tutorials and Courses
 
-- :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/) (Packt Publishing)
+- :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/) -- Packt Publishing
+- :o: [Introduction to Blender (Free Downloadable eBook)](introduction-to-blender/) -- Mammoth Interactive
 
 ## :beginner: YouTube Quick Tutorials
 
-- :heavy_check_mark: [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) (Grease Pencil Tutorial on YouTube)
+- :heavy_check_mark: [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) -- Grease Pencil Tutorial on YouTube
 - :o: [RPG graphics E01: Character model [Blender]](https://www.youtube.com/watch?v=aAO4C_8y0w8)
-- :heavy_check_mark: [How to Create 2D Animations - Beginner Blender Tutorial](https://www.youtube.com/watch?v=Or1HtAG9M-s) (CG Geek)
+- :heavy_check_mark: [How to Create 2D Animations - Beginner Blender Tutorial](https://www.youtube.com/watch?v=Or1HtAG9M-s) -- CG Geek
 
 ## :memo: Version
 
