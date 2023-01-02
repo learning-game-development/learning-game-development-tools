@@ -18,11 +18,14 @@
 2. :o: [Learning Blender with Grant Abbitt](learning-blender-with-grant-abbitt/)
 3. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) -- the Donut tutorial by Blender Guru
 4. :o: [Blender Zero 2 Hero](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV23C2oBB3aFLla6ABAPYiDk)
+5. :o: [Blender Fundamentals 2.8](https://youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) - Blender
+6. :o: [Blender for Beginners - Getting Started Modeling in Blender](https://www.youtube.com/playlist?list=PL0LADxPpmXN7xXkosUQM5zMq-R5Sm8GgU) - The CG Essentials
 
 ## :books: eBook Tutorials and Courses
 
-- :o: [Blender 2.5 HOTSHOT](blender-25-hotshot/) -- Packt Publishing
+- :no_entry: [Blender 2.5 HOTSHOT](blender-25-hotshot/) -- Packt Publishing :exclamation: This course has been retired
 - :o: [Introduction to Blender (Free Downloadable eBook)](introduction-to-blender/) -- Mammoth Interactive
+- :construction: Blender 2.5 Character Animation Cookbook
 
 ## :beginner: YouTube Quick Tutorials
 
@@ -32,7 +35,7 @@
 
 ## :memo: Version
 
-These files was created with Blender 2.90.1
+These files was created with Blender 2.90.1 or higher
 
 ## :page_with_curl: License
 
