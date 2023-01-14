@@ -7,14 +7,14 @@
 
 ## :beginner: Online Courses
 
-1. :construction: [The Art of Effective Rigging](/) -- P2Design Academy
+1. :construction: [The Art of Effective Rigging](/art-of-effective-rigging) -- P2Design Academy
 2. :construction: [Alive! animation course in Blender](/) -- P2Design Academy
 3. :construction: [The gameboy project](/) -- P2Design Academy
 4. :construction: [Real time Explosion in Blender](/) -- P2Design Academy
 
 ## :beginner: YouTube Tutorials and Courses
 
-1. :o: [very basics - blender tutorials](https://www.youtube.com/playlist?list=PLn3ukorJv4vtUy-we5PXaR7V5P7YXUlHf) -- Grant Abbitt
+1. :heavy_check_mark: [very basics - blender tutorials](very-basics-blender-tutorials/) -- Grant Abbitt
 2. :o: [Learning Blender with Grant Abbitt](learning-blender-with-grant-abbitt/)
 3. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) -- the Donut tutorial by Blender Guru
 4. :o: [Blender Zero 2 Hero](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV23C2oBB3aFLla6ABAPYiDk)
@@ -25,7 +25,7 @@
 
 - :no_entry: [Blender 2.5 HOTSHOT](blender-25-hotshot/) -- Packt Publishing :exclamation: This course has been retired
 - :o: [Introduction to Blender (Free Downloadable eBook)](introduction-to-blender/) -- Mammoth Interactive
-- :construction: Blender 2.5 Character Animation Cookbook
+- :o: [Blender 2.5 Character Animation Cookbook](character-animation-cookbook/)
 
 ## :beginner: YouTube Quick Tutorials
 
