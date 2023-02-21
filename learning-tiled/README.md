@@ -7,7 +7,8 @@
 
 ## :beginner: Tutorials
 
-1. :o: [Introduction to Tiled](Introduction-to-tiled/)
+1. :heavy_check_mark: [Introduction to Tiled](Introduction-to-tiled/)
+2. :o: [Tiled Map Editor Tutorial Series](tiled-map-editor-tutorial-series/)
 
 ## :page_with_curl: License
 
