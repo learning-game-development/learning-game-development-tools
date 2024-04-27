@@ -1,9 +1,10 @@
-# Blockbench Tutorials
+# :mortar_board: Blockbench Tutorials
 
-## 1 How to Make Low-Poly Models with Pixel Texture | Blockbench Tutorial
+:link: [Blockbench YouTube videos](https://www.youtube.com/@Blockbench3D/videos)
 
-![Pokeball](Pokeball.gif)
+:heavy_check_mark: Completed  
+:o: Incomplete
 
-## 2 Blockbench YouTube videos
+## :beginner: Blockbench YouTube videos
 
 TODO

@@ -7,12 +7,12 @@
 
 ## :beginner: YouTube Tutorials and Courses
 
-1. :o: [How to Make Low-Poly Models with Pixel Texture | Blockbench Tutorial](https://youtu.be/GukhptdHlPk?si=U6INwvDwWJdGpVdW) -- Brandon James Greer
-2. :o: [Blockbench YouTube videos](https://www.youtube.com/@Blockbench3D/videos)
+1. :o: [Brandon James Greer Tutorials](brandon-james-greer-tutorials)
+2. :o: [Blockbench YouTube videos](blockbench-tutorials)
 
 ## :memo: Version
 
-These files was created with Blender 2.90.1 or higher
+These files was created with Blockbench 4.9.4
 
 ## :page_with_curl: License
 
