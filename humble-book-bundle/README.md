@@ -6,7 +6,7 @@
 ## :books: Open Source Bookshelf by Bleeding Edge Press
 
 - :construction: Developing a hapi Edge
-- :heavy_check_mark: [Creating Interfaces with Bulma](https://github.com/learning-software-development/learning-web-application-development/tree/master/humble-book-bundle)
+- :heavy_check_mark: [Creating Interfaces with Bulma](https://github.com/learning-software-development/learning-web-application-development/tree/master/humble-book-bundle) :rocket:
 - :construction: Building Apps with Riot
 - :construction: Developing a React.js Edge
 
@@ -19,4 +19,9 @@
 - :heavy_check_mark: The Official ScratchJr Book: Help Your Kids Learn to Code
 - :heavy_check_mark: [Scratch Programming Playground: Learn to Program by Making Cool Games](https://github.com/learning-game-development/learning-scratch-game-development/tree/main/programming-playground) :rocket:
 - :heavy_check_mark: [Invent Your Own Computer Games with Python](https://github.com/learning-game-development/learning-python-game-development/tree/master/invent-your-own-computer-games-with-python) :rocket:
-- :oheavy_check_mark: [Teach Your Kids to Code](https://github.com/learning-game-development/learning-python-game-development/tree/master/teach-your-kids-to-code) :rocket:
+- :heavy_check_mark: [Teach Your Kids to Code](https://github.com/learning-game-development/learning-python-game-development/tree/master/teach-your-kids-to-code) :rocket:
+- :o: The LEGO Animation Book: Make Your Own LEGO Movies!
+
+## :books: Code Your Own Games
+
+- :o: [Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Beginner-Guide-to-How-to-Make-a-Game-with-Unity) :rocket:
