@@ -1,4 +1,4 @@
-# Introduction to Blender (Free Downloadable eBook)
+# :mortar_board: Introduction to Blender (Free Downloadable eBook)
 
 ## Chapter 1: Arcade Machine
 
