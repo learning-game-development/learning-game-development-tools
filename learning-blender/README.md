@@ -9,6 +9,7 @@
 ## :beginner: Online Courses
 
 1. :o: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/blender-basics/) -- CG Cookie
+
 2. :o: [Learn Level Design with Blender and Unity 3D](https://github.com/learning-game-development/learning-unity-game-development/tree/master/StackSkills-Unity-Courses) :rocket: -- stoneriverelearning.com
 3. :o: P2Design Academy
    - :construction: [The Art of Effective Rigging](online-courses-tutorials/art-of-effective-rigging/)
@@ -19,12 +20,13 @@
 ## :beginner: YouTube Tutorials and Courses
 
 1. :heavy_check_mark: [very basics - blender tutorials](youtube-playlists/very-basics-blender-tutorials/) -- Grant Abbitt
-2. :o: [Learning Blender with Grant Abbitt](youtube-playlists/learning-blender-with-grant-abbitt/) -- Grant Abbitt
-3. :o: [Blender 3.0 Basics Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X)
-4. :construction: [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) -- the Donut tutorial by Blender Guru
-5. :o: [Blender Zero 2 Hero](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV23C2oBB3aFLla6ABAPYiDk)
-6. :o: [Blender for Beginners - Getting Started Modeling in Blender](https://www.youtube.com/playlist?list=PL0LADxPpmXN7xXkosUQM5zMq-R5Sm8GgU) - The CG Essentials
-7. :heavy_check_mark: [Introduction to Blender](youtube-playlists/introduction-to-blender) -- Brackeys
+2. :o: [Blender 2.8 Beginner Donut Tutorial Series](youtube-playlists/donut-tutorial-series/) -- Blender Guru
+3. :o: [Blender 2.8 Complete Beginner Tutorial Course](youtube-playlists/beginner-tutorial-course/) -- CG Geek
+4. :o: [Learning Blender with Grant Abbitt](youtube-playlists/learning-blender-with-grant-abbitt/) -- Grant Abbitt
+5. :o: [Blender 3.0 Basics Course](youtube-playlists/blender-3-basics-course/) -- CG Cookie
+6. :construction [Blender Zero 2 Hero](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV23C2oBB3aFLla6ABAPYiDk)
+7. :o: [Blender for Beginners - Getting Started Modeling in Blender](youtube-playlists/blender-for-beginners/) -- The CG Essentials
+8. :heavy_check_mark: [Introduction to Blender](youtube-playlists/introduction-to-blender) -- Brackeys
 
 ## :books: eBook Tutorials and Courses
 
@@ -36,6 +38,8 @@
 
 - :heavy_check_mark: [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) :link: -- Grease Pencil Tutorial
 - :heavy_check_mark: [How to Create 2D Animations - Beginner Blender Tutorial](youtube-tutorials/2d-animations/) -- CG Geek
+- :o: [Blender Low Poly Tutorial - How To Make Low Poly House In Blender (EASY!)](youtube-tutorials/low-poly-house/) -- CG Infinite
+- :heavy_check_mark: [Blender Crash Course - Learn to Model In Less Than 20 Minutes!](youtube-tutorials/blender-crash-course/) -- Nocluse
 
 ## :memo: Version
 
