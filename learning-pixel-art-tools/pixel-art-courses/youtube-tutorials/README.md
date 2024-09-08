@@ -6,3 +6,7 @@
 ![Diamond 2](diamond002.png)
 ![Diamond 3](diamond003.png)
 ![Diamond 4](diamond004.png)
+
+## How to Animate Pixels! - Animation Basics
+
+WIP

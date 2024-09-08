@@ -9,7 +9,6 @@
 ## :beginner: Online Courses
 
 1. :o: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/blender-basics/) -- CG Cookie
-
 2. :o: [Learn Level Design with Blender and Unity 3D](https://github.com/learning-game-development/learning-unity-game-development/tree/master/StackSkills-Unity-Courses) :rocket: -- stoneriverelearning.com
 3. :o: P2Design Academy
    - :construction: [The Art of Effective Rigging](online-courses-tutorials/art-of-effective-rigging/)

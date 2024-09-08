@@ -16,12 +16,17 @@
 
 ## :books: Brainiac 2 presented by No Starch
 
-- :heavy_check_mark: The Official ScratchJr Book: Help Your Kids Learn to Code
-- :heavy_check_mark: [Scratch Programming Playground: Learn to Program by Making Cool Games](https://github.com/learning-game-development/learning-scratch-game-development/tree/main/programming-playground) :rocket:
+- :heavy_check_mark: [The Official ScratchJr Book: Help Your Kids Learn to Code](https://github.com/learning-game-development/learning-scratch-game-development/tree/main) :rocket:
+- :heavy_check_mark: [Scratch Programming Playground: Learn to Program by Making Cool Games](https://github.com/learning-game-development/learning-scratch-game-development/tree/main) :rocket:
 - :heavy_check_mark: [Invent Your Own Computer Games with Python](https://github.com/learning-game-development/learning-python-game-development/tree/master/invent-your-own-computer-games-with-python) :rocket:
 - :heavy_check_mark: [Teach Your Kids to Code](https://github.com/learning-game-development/learning-python-game-development/tree/master/teach-your-kids-to-code) :rocket:
 - :o: The LEGO Animation Book: Make Your Own LEGO Movies!
 
 ## :books: Code Your Own Games
 
-- :o: [Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Beginner-Guide-to-How-to-Make-a-Game-with-Unity) :rocket:
+- :o: [Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+
+## :books: Create Comics & Manga by Quarto
+
+- :o: You Can Draw Comic Book Characters
+- :o: Cartooning: Character Design

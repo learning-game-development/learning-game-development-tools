@@ -5,16 +5,20 @@
 :heavy_check_mark: Completed  
 :o: Incomplete
 
-## :beginner: YouTube Tutorials and Courses
+## :beginner: Learning the Basics
 
-1. :heavy_check_mark: [Aseprite Tutorial For Beginners (Pixel Art)](https://www.youtube.com/watch?v=tFsETEP01k8) by Saultoons
-2. :heavy_check_mark: [An Aseprite Crash Course In 30 Minutes](https://www.youtube.com/watch?v=59Y6OTzNrhk) by AdamCYounis
-3. :heavy_check_mark: [Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) by MortMort
-4. :o: [20 Hints and Tips for Aseprite [Aseprite Tutorial]](https://www.youtube.com/watch?v=va-sxKT4-qU) (Comp-3 Interactive)
+1. :heavy_check_mark: [Aseprite Tutorial For Beginners (Pixel Art)](https://www.youtube.com/watch?v=tFsETEP01k8) -- Saultoons
+2. :heavy_check_mark: [An Aseprite Crash Course In 30 Minutes](https://www.youtube.com/watch?v=59Y6OTzNrhk) -- AdamCYounis
+3. :heavy_check_mark: [Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) -- MortMort
+4. :heavy_check_mark: [20 Hints and Tips for Aseprite [Aseprite Tutorial]](https://www.youtube.com/watch?v=va-sxKT4-qU) -- Comp-3 Interactive
 
 ## :beginner: Tileset Tutorials
 
-1. :heavy_check_mark: [Tileset Workflow (Pixel Art & Gamedev Tutorial)](https://www.youtube.com/watch?v=btnH0x7_1g8) by MortMort
+1. :heavy_check_mark: [Tileset Workflow (Pixel Art & Gamedev Tutorial)](https://www.youtube.com/watch?v=btnH0x7_1g8) -- MortMort
+
+## :beginner: Animation Tutorials
+
+1. [How to Animate Pixels! - Animation Basics](https://www.youtube.com/watch?v=5cxBn_NZ-7E&list=WL) -- Dillon Designs Art
 
 ## Images
 
