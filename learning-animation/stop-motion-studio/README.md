@@ -5,10 +5,25 @@
 
 ## :beginner: Stop Motion Studio Tutorials
 
-1. [Video tutorials](https://www.cateater.com/tutorials.html) (YouTube playlist)
-   - :o: 01 First Steps
-   - :o: 02 Camera
-   - :o: 03 Animation
-   - :o: 04 Guides
-   - :o: 05 Editing
-   - :o: 06 Sound
+:link: [Stop Motion Studio Tutorial](https://www.youtube.com/playlist?list=PLhekTmFb9ZP6qSBbmjmB6ma2JSu4qmvna) (YouTube playlist)
+
+1. [Video tutorials](https://www.cateater.com/tutorials.html)
+   - :heavy_check_mark: Get started
+   - :heavy_check_mark: Basic camera setup
+   - :heavy_check_mark: How to animate
+   - :heavy_check_mark: Plan your animation
+   - :o: Edit your movie
+   - :o: Music and sound effects
+   - :o: Remove unwanted objects
+   - :o: Add titles and credits
+   - :o: Change the background
+   - :o: Take advantage of a full-size camera
+   - :o: Principles of animation
+
+2. [Learn how to animate your LEGO chracters](https://www.cateater.com/tutorials.html)
+   - :o: Scene Setup
+   - :o: Walk Cycle
+   - :o: Gestures and Emotions
+   - :o: Jumping, Flying, and Throwing
+   - :o: Special Effects
+   - :o: Facial expressions

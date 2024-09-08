@@ -6,6 +6,8 @@
 ## :beginner: YouTube Tutorials
 
 - :o: [How to Start Animating Your Characters : 4 Principles](https://www.youtube.com/watch?v=ynBENQJBQbE)
+- :o: [Animation for Anyone](https://www.youtube.com/playlist?list=PLqKRc0Oi7q20wxXVUNiS15S2MvtSqOtLV)
+- :o: [How to Animate ANYTHING - 4 Types of Motion](https://youtu.be/iZBKWoSTVX8?si=JVioAnypD6iWCCbe)
 
 ## :beginner: Learning Animation Software
 
