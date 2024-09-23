@@ -7,7 +7,7 @@
 
 ## Tutorials
 
-- :o: Part One: The Basics
+- :heavy_check_mark: Part One: The Basics
 - :o: Part Two: Terrain
 - :o: Part Three: AutoMap
 - :o: Part Four: Object Layers and Integrating with Code
