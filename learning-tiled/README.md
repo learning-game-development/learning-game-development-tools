@@ -1,4 +1,4 @@
-# Learning Tiled
+# :mortar_board: Learning Tiled
 
 :link: [mapeditor.org](https://www.mapeditor.org/)
 
@@ -7,8 +7,9 @@
 
 ## :beginner: Tutorials
 
-1. :heavy_check_mark: [Introduction to Tiled](Introduction-to-tiled/)
-2. :o: [Tiled Map Editor Tutorial Series](tiled-map-editor-tutorial-series/)
+1. :heavy_check_mark: [Introduction to Tiled](introduction-to-tiled/)
+2. :heavy_check_mark: [Tiled Map Editor Tutorial Series](tiled-map-editor-tutorial-series/)
+3. :o: [Creating Isometric Maps with Tiled and Kenney.nl Tiles](isometric-maps-tiled-and-kenney/)
 
 ## :page_with_curl: License
 
