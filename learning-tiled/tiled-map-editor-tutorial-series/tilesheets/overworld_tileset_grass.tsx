@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.9" tiledversion="1.9.2" name="overworld_tileset_grass" tilewidth="16" tileheight="16" tilecount="252" columns="12">
- <image source="../../../../../../Users/Quintin.Henn/AppData/Roaming/itch/apps/overworld-tileset-grass-biome/TilesetGrass/overworld_tileset_grass.png" width="192" height="336"/>
+<tileset version="1.11" tiledversion="1.11.0" name="overworld_tileset_grass" tilewidth="16" tileheight="16" tilecount="252" columns="12">
+ <image source="overworld_tileset_grass.png" width="192" height="336"/>
  <wangsets>
   <wangset name="World" type="corner" tile="-1">
    <wangcolor name="Forest" color="#ff0000" tile="70" probability="1"/>
