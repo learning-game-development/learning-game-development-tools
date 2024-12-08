@@ -12,6 +12,7 @@ Learning to use various game development tools and integrate them with game fram
 - :file_folder: [Learning Other Game Development Tools](learning-other-tools/)
 - :file_folder: [Learning Animation](learning-animation/)
 - :file_folder: [Learning Cascadeur](learning-cascadeur/)
+- :file_folder: [Humble Book Bundles](humble-book-bundle/)
 
 ## :page_with_curl: License
 
