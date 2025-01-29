@@ -13,3 +13,9 @@
 
 - :file_folder: [Enve 2D](enve-2d/)
 - :file_folder: [Stop Motion Studio](stop-motion-studio/)
+- :file_folder: [Moho](learning-moho/)
+- :file_folder: [Poser](learning-poser/)
+
+## :beginner: :books: Books
+
+TODO
