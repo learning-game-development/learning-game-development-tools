@@ -16,10 +16,6 @@
 
 1. :heavy_check_mark: [Tileset Workflow (Pixel Art & Gamedev Tutorial)](https://www.youtube.com/watch?v=btnH0x7_1g8) -- MortMort
 
-## :beginner: Animation Tutorials
-
-1. [How to Animate Pixels! - Animation Basics](https://www.youtube.com/watch?v=5cxBn_NZ-7E&list=WL) -- Dillon Designs Art
-
 ## Images
 
 ![Donut Tutorial](images/donut-tutorial.png)
