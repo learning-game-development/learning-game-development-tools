@@ -7,4 +7,4 @@
 1. :heavy_check_mark: Introduction
 2. :heavy_check_mark: Blender Basics
 3. :heavy_check_mark: Intro To Modeling
-4. :o: Modeling and Rendering
+4. :heavy_check_mark: Modeling and Rendering
