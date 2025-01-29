@@ -16,7 +16,7 @@
    - :construction: [Alive! animation course in Blender](/)
    - :construction: [The gameboy project](/)
    - :construction: [Real time Explosion in Blender](/)
-5. :o: [Intro To Blender](intro-to-blender-cgma/) -- cgma
+5. :heavy_check_mark: [Intro To Blender](intro-to-blender-cgma/) -- cgma
 
 ## :beginner: YouTube Tutorials and Courses
 
