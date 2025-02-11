@@ -5,13 +5,21 @@
 :heavy_check_mark: Completed  
 :o: Incomplete
 
-## :beginner: 100x100 Challenges
+## :beginner: Lessons/Chapters
 
-1. :heavy_check_mark: Nintendo's character Kerby
+1. :heavy_check_mark: What is Pixel Art?
+2. :o: Clusters
+3. :o: Anti-aliasing
+4. :o: Dithering
+5. :o: Banding
+6. :o: Contrast
+7. :o: Style
+8. :o: Starting A Piece
 
-## Images
+## :art: 100x100 Challenges
 
-![Nintendo's character Kerby](Challenge-01-kerby.png)
+- :heavy_check_mark: Nintendo's character Kerby  
+  ![Nintendo's character Kerby](Challenge-01-kerby.png)
 
 ## :page_with_curl: License
 

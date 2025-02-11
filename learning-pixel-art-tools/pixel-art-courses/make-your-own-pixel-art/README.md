@@ -7,7 +7,16 @@
 
 ## :beginner: Lessons/Chapters
 
-:construction:
+1. :heavy_check_mark: Pixel Art Tool Guide
+2. :o: Shapes and Shading
+3. :o: Colors and Palettes
+4. :o: From Concept to Complete
+5. :o: Get in the Game
+6. :o: Animating Pixels
+7. :o: Special Effects for Animation
+8. :o: Where to Go from Here
+
+## :art: Images
 
 ## :page_with_curl: License
 
