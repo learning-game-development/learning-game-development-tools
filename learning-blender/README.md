@@ -11,12 +11,14 @@
 1. :o: [BLENDER BASICS: An introduction to Blender 3.x](online-courses-tutorials/blender-basics/) -- CG Cookie
 2. :o: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/blender-basics/) -- CG Cookie
 3. :o: [Learn Level Design with Blender and Unity 3D](https://github.com/learning-game-development/learning-unity-game-development/tree/master/StackSkills-Unity-Courses) :rocket: -- stoneriverelearning.com
-4. :o: P2Design Academy
+4. P2Design Academy
    - :construction: [The Art of Effective Rigging](online-courses-tutorials/art-of-effective-rigging/)
    - :construction: [Alive! animation course in Blender](/)
    - :construction: [The gameboy project](/)
    - :construction: [Real time Explosion in Blender](/)
 5. :heavy_check_mark: [Intro To Blender](intro-to-blender-cgma/) -- cgma
+6. Udemy Courses
+   - :o: [Introduction to Blender 2.8 for Complete Beginners](/udemy-courses/intro-to-blender-for-beginners/)
 
 ## :beginner: YouTube Tutorials and Courses
 
