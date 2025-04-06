@@ -19,7 +19,7 @@
 ## :art: 100x100 Challenges
 
 - :heavy_check_mark: Nintendo's character Kerby  
-  ![Nintendo's character Kerby](Challenge-01-kerby.png)
+  ![Nintendo's character Kerby](images/Challenge-01-kerby.png)
 
 ## :page_with_curl: License
 

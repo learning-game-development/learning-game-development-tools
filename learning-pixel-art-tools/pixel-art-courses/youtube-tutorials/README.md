@@ -2,10 +2,7 @@
 
 ## Pixel Art Tutorial - How to start in PixelArt
 
-![Diamond 1](diamond001.png)
-![Diamond 2](diamond002.png)
-![Diamond 3](diamond003.png)
-![Diamond 4](diamond004.png)
+![Diamond 1](images/diamond001.png) ![Diamond 2](images/diamond002.png) ![Diamond 3](images/diamond003.png) ![Diamond 4](images/diamond004.png)
 
 ## How to Animate Pixels! - Animation Basics
 

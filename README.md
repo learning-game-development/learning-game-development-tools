@@ -8,7 +8,7 @@ Learning to use various game development tools and integrate them with game fram
 - :file_folder: [Learning Blender](learning-blender/)
 - :file_folder: [Learning Blockbench](learning-blockbench/)
 - :file_folder: [Learning Inkscape](learning-inkscape/)
-- :file_folder: [Learning Pixel Art Tools](learning-pixel-art-tools/)
+- :file_folder: [Learning Pixel Art and the Tools](learning-pixel-art-tools/)
 - :file_folder: [Learning Other Game Development Tools](learning-other-tools/)
 - :file_folder: [Learning Animation](learning-animation/)
 - :file_folder: [Learning Digital Painting](learning-digital-painting/)
