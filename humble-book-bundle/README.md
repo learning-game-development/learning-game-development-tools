@@ -81,8 +81,8 @@
 
 ## :books: 09 Programming Fundamentals by Mercury
 
-1 :construction: Python Basics: A Self-Teaching Introduction
-1 :construction: C Programming Pocket Primer
+- :construction: Python Basics: A Self-Teaching Introduction
+- :construction: C Programming Pocket Primer
 
 ## 11 Mastering Comics, Manga, & Animation by Walter Foster
 
@@ -90,3 +90,17 @@
 - :construction: Flipping Out: The Art of Flip Book Animation
 - :construction: Cartooning Made Easy: Circle, Triangle, Square
 - :construction: Art Starts with a Line
+
+## Other: Bundle: International Day of the Programmer -- Fanatical
+
+- :construction: Mathematics for Game Programming and Computer Graphics
+- :construction: Game Development with Blender and Godot
+- :construction: Functional Programming in Go
+- :construction: Fundamentals for Self-Taught Programmers
+- :construction: Game Audio with FMOD and Unity
+- :construction: Creating Games with Unity, Substance Painter, & Maya, Textures, Animation, & Code
+- :construction: 2D Game Development with Unity (Zenva course?)
+- :construction: Punk Playthings: Provocations for 21st Century Game Makers
+- :construction: Learn Java 12 Programming
+- :construction: Expert Python Programming - Third Edition
+- :construction: Beginning C++ Game Programming - Second Edition
