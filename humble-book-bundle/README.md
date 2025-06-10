@@ -84,7 +84,13 @@
 - :construction: Python Basics: A Self-Teaching Introduction
 - :construction: C Programming Pocket Primer
 
-## 11 Mastering Comics, Manga, & Animation by Walter Foster
+## :books: 10 Stuff That Kids Love by Adams Media
+
+- :heavy_check_mark: Everything Kids’ Scratch Coding Book
+- :construction: Advanced Roblox Coding Book: An Unofficial Guide
+- :construction: Ultimate Roblox Book: An Unofficial Guide
+
+## :books: 11 Mastering Comics, Manga, & Animation by Walter Foster
 
 - :o: Drawing School: Fundamentals for the Beginner
 - :construction: Flipping Out: The Art of Flip Book Animation
