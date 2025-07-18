@@ -12,7 +12,7 @@
 2. :o: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/blender-basics/) -- CG Cookie
 3. :o: [Learn Level Design with Blender and Unity 3D](https://github.com/learning-game-development/learning-unity-game-development/tree/master/StackSkills-Unity-Courses) :rocket: -- stoneriverelearning.com
 4. P2Design Academy
-   - :construction: [The Art of Effective Rigging](online-courses-tutorials/art-of-effective-rigging/)
+   - :construction: [The Art of Effective Rigging](online-courses-tutorials/p2design-academy/art-of-effective-rigging/)
    - :construction: [Alive! animation course in Blender](/)
    - :construction: [The gameboy project](/)
    - :construction: [Real time Explosion in Blender](/)
@@ -22,14 +22,14 @@
 
 ## :beginner: YouTube Tutorials and Courses
 
-1. :heavy_check_mark: [very basics - blender tutorials](youtube-playlists/very-basics-blender-tutorials/) -- Grant Abbitt
-2. :o: [Blender 2.8 Beginner Donut Tutorial Series](youtube-playlists/donut-tutorial-series/) -- Blender Guru
-3. :o: [Blender 2.8 Complete Beginner Tutorial Course](youtube-playlists/beginner-tutorial-course/) -- CG Geek
-4. :o: [Learning Blender with Grant Abbitt](youtube-playlists/learning-blender-with-grant-abbitt/) -- Grant Abbitt
-5. :o: [Blender 3.0 Basics Course](youtube-playlists/blender-3-basics-course/) -- CG Cookie
-6. :construction [Blender Zero 2 Hero](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV23C2oBB3aFLla6ABAPYiDk)
-7. :o: [Blender for Beginners - Getting Started Modeling in Blender](youtube-playlists/blender-for-beginners/) -- The CG Essentials
-8. :heavy_check_mark: [Introduction to Blender](youtube-playlists/introduction-to-blender) -- Brackeys
+1. :heavy_check_mark: [very basics - blender tutorials](youtube-playlists-tutorials/very-basics-blender-tutorials/) -- Grant Abbitt
+2. :o: [Blender 2.8 Beginner Donut Tutorial Series](youtube-playlists-tutorials/donut-tutorial-series/) -- Blender Guru
+3. :o: [Blender 2.8 Complete Beginner Tutorial Course](youtube-playlists-tutorials/beginner-tutorial-course/) -- CG Geek
+4. :o: [Learning Blender with Grant Abbitt](youtube-playlists-tutorials/learning-blender-with-grant-abbitt/) -- Grant Abbitt
+5. :o: [Blender 3.0 Basics Course](youtube-playlists-tutorials/blender-3-basics-course/) -- CG Cookie
+6. :construction [Blender Zero 2 Hero](youtube-playlists-tutorials/blender-zero-2-hero/) -- ?
+7. :o: [Blender for Beginners - Getting Started Modeling in Blender](youtube-playlists-tutorials/blender-for-beginners/) -- The CG Essentials
+8. :heavy_check_mark: [Introduction to Blender](youtube-playlists-tutorials/introduction-to-blender) -- Brackeys
 
 ## :books: eBook Tutorials and Courses
 
@@ -40,9 +40,9 @@
 ## :beginner: YouTube Quick Tutorials
 
 - :heavy_check_mark: [Anyone Can Be An Animator Now](https://www.youtube.com/watch?v=UeCEczxToCA) :link: -- Grease Pencil Tutorial
-- :heavy_check_mark: [How to Create 2D Animations - Beginner Blender Tutorial](youtube-tutorials/2d-animations/) -- CG Geek
-- :o: [Blender Low Poly Tutorial - How To Make Low Poly House In Blender (EASY!)](youtube-tutorials/low-poly-house/) -- CG Infinite
-- :heavy_check_mark: [Blender Crash Course - Learn to Model In Less Than 20 Minutes!](youtube-tutorials/blender-crash-course/) -- Nocluse
+- :heavy_check_mark: [How to Create 2D Animations - Beginner Blender Tutorial](youtube-quick-tutorials/2d-animations/) -- CG Geek
+- :o: [Blender Low Poly Tutorial - How To Make Low Poly House In Blender (EASY!)](youtube-quick-tutorials/low-poly-house/) -- CG Infinite
+- :heavy_check_mark: [Blender Crash Course - Learn to Model In Less Than 20 Minutes!](youtube-quick-tutorials/blender-crash-course/) -- Nocluse
 
 ## :memo: Version
 
