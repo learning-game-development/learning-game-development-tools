@@ -13,7 +13,7 @@
 :link: [Blender 3.0 Basics Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X) -- YouTube Playlist
 
 1. :heavy_check_mark: Chapter 1: Intro to 3D Space
-2. :o: Chapter 2: Editing Objects
+2. :heavy_check_mark: Chapter 2: Editing Objects
 3. :o: Chapter 3: The Blender Way
 
 ### Blender Basics 4.x
