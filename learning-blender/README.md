@@ -44,6 +44,10 @@
 - :o: [Blender Low Poly Tutorial - How To Make Low Poly House In Blender (EASY!)](youtube-quick-tutorials/low-poly-house/) -- CG Infinite
 - :heavy_check_mark: [Blender Crash Course - Learn to Model In Less Than 20 Minutes!](youtube-quick-tutorials/blender-crash-course/) -- Nocluse
 
+## :tv: Online Courses Bundles
+
+- :file_folder: [Blender 3D Modeling Course Bundle](online-courses-tutorials/eldamar-studio/)
+
 ## :memo: Version
 
 These files was created with Blender 4.2
