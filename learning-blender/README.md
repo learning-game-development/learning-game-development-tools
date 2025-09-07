@@ -8,7 +8,7 @@
 
 ## :beginner: Online Courses
 
-1. :o: [BLENDER BASICS: An introduction to Blender 3.x](online-courses-tutorials/blender-basics/) -- CG Cookie
+1. :heavy_check_mark: [BLENDER BASICS: An introduction to Blender 3.x](online-courses-tutorials/blender-basics/) -- CG Cookie
 2. :o: [BLENDER BASICS: An Introduction to Blender 3D 4.X](online-courses-tutorials/blender-basics/) -- CG Cookie
 3. :o: [Learn Level Design with Blender and Unity 3D](https://github.com/learning-game-development/learning-unity-game-development/tree/master/StackSkills-Unity-Courses) :rocket: -- stoneriverelearning.com
 4. P2Design Academy
