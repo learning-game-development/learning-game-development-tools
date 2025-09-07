@@ -1,7 +1,0 @@
-#blender
-*.pyc
-*.blend[1-9]
-__pycache__
-/dist/
-
-learning-blender/online-courses-tutorials/intro-to-blender-cgma/CleaningRobot.blend.zip

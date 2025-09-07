@@ -5,7 +5,7 @@ Learning to use various game development tools and integrate them with game fram
 ## Categories
 
 - :file_folder: [Learning Tiled](learning-tiled/)
-- :file_folder: [Learning Blender](learning-blender/)
+- :file_folder: [Learning Blender](https://github.com/learning-game-development/learning-blender) :rocket:
 - :file_folder: [Learning Blockbench](learning-blockbench/)
 - :file_folder: [Learning Inkscape](learning-inkscape/)
 - :file_folder: [Learning Pixel Art and the Tools](learning-pixel-art-tools/)
