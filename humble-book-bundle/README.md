@@ -46,7 +46,11 @@
 
 ## :books: 03 Game Design & Animation by Packt
 
-- :construction: Game Design with Unity 2019
+- :o: [Game Design with Unity 2019](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+- :construction: [Create a Game Character: Blender, Substance Painter, and Unity](/) :rocket:
+- [Learn the Foundations of Blender](/) :rocket:
+- [Blender 3D By Example](/) :rocket:
+- [Blender for Video Production Quick Start Guide](/) :rocket:
 
 ## :books: 04 Mastering Animation by CRC Press
 
