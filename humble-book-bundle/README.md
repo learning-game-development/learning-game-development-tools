@@ -12,13 +12,12 @@
 
 ## :books: 00 Code Your Own GamesCode Your Own Games
 
-- :o: [Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+- :heavy_check_mark: [Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 - :o: Lean Game Development
 - :construction: Game Development with Construct 2
 - :construction: Making Games
 - :construction: Program Arcade Games: With Python and Pygame
 - :o: Polished Game Development: From First Steps to Final Release
-- :construction: Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners
 - :construction: Learn Pixi.js: Create Great Interactive Graphics for Games and the Web
 
 ## :books: 01 Brainiac 2 presented by No Starch
@@ -47,9 +46,24 @@
 ## :books: 03 Game Design & Animation by Packt
 
 - :o: [Game Design with Unity 2019](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
-- :construction: [Create a Game Character: Blender, Substance Painter, and Unity](/) :rocket:
+- Learn Modern OpenGL Programming
+- :o: [Create a Game Character: Blender, Substance Painter, and Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+- Level Up Your CSS Animation Skills
 - [Learn the Foundations of Blender](/) :rocket:
+- Introduction to 3D Character Animation in Unreal Engine 4
+- OpenGL and GLSL Fundamentals with C++ (practical course)
+- Godot Engine Game Development Projects
+- OpenGL 4 Shading Language Cookbook
+- Hands-On Motion Graphics with Adobe After Effects CC
+- Mastering SVG
+- Hands-On C++ Game Animation Programming
 - [Blender 3D By Example](/) :rocket:
+- Mastering Adobe Photoshop Elements 2020
+- Practical Game Design
+- Mastering UI Development with Unity
+- Learn Clip Studio Paint
+- Unreal Engine 4 Virtual Reality Projects
+- Real-Time 3D Graphics with WebGL
 - [Blender for Video Production Quick Start Guide](/) :rocket:
 
 ## :books: 04 Mastering Animation by CRC Press
