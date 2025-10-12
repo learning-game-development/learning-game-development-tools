@@ -68,6 +68,31 @@
 
 ## :books: 04 Mastering Animation by CRC Press
 
+- Hybrid Animation: Integrating 2D and 3D Assets
+- Independent Animation: Developing, Producing and Distributing Your Animated Films
+- Dream Worlds: Production Design For Animation
+- Lighting for Animation: The Art of Visual Storytelling
+- Writing for Animation, Comics, and Games
+- Designing Sound for Animation
+- Animate to Harmony: The Independent Animator's Guide to Toon Boom
+- Layout and Composition for Animation
+- Acting and Performance for Animation
+- The Art of Fluid Animation
+- Acting and Character Animation: The Art of Animated Films, Acting and Visualizing
+- Directing for Animation: Everything You Didn't Learn in Art School
+- :o: How to Make Animated Films: Tony White's Complete Masterclass on the Traditional Principals of Animation
+- Reel Success: Creating Demo Reels and Animation Portfolios
+- Animated Life: A Lifetime of tips, tricks, techniques and stories from an animation Legend
+- Make Toons That Sell Without Selling Out
+- Voice-Over for Animation
+- Comics for Film, Games, and Animation: Using Comics to Construct Your Transmedia Storyworld
+- Japanese Visual Culture: Explorations in the World of Manga and Anime
+- Animation in China: History, Aesthetics, Media
+- Animation: From Concept to Production
+- :o: Frame-By-Frame Stop Motion: The Guide to Non-Puppet Photographic Animation Techniques, Second Edition
+- The Pocket Lawyer for Comic Book Creators: A Legal Toolkit for Comic Book Artists and Writers
+- :o: Animation from Pencils to Pixels: Classical Techniques for the Digital Animator
+
 ## :books: 05 Game Programming by Taylor & Francis
 
 - :construction: Branching Story, Unlocked Dialogue: Designing and Writing Visual Novels
