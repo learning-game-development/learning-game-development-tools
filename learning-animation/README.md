@@ -5,8 +5,9 @@
 
 ## :beginner: Online Courses
 
-1. :o: [This Is Animation​](/) -- Yellowbrick.co
-2. :o: [Animation Industry Essentials](/) -- Yellowbrick.co
+1. :o: [The Basics of 2D Animation](/) -- 21Draw.com
+2. :o: [This Is Animation​](/) -- Yellowbrick.co
+3. :o: [Animation Industry Essentials](/) -- Yellowbrick.co
 
 ### Resources
 
