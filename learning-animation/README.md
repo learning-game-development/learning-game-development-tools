@@ -6,8 +6,8 @@
 ## :beginner: Online Courses
 
 1. :o: [The Basics of 2D Animation](/) -- 21Draw.com
-2. :o: [This Is Animation​](/) -- Yellowbrick.co
-3. :o: [Animation Industry Essentials](/) -- Yellowbrick.co
+2. :o: [This Is Animation​](yellowbrick/this-is-animation/) -- Yellowbrick.co
+3. :o: [Animation Industry Essentials](yellowbrick/animation-industry-essentials/) -- Yellowbrick.co
 
 ### Resources
 
@@ -31,52 +31,13 @@
 
 ## :beginner: Storyboarding
 
-1. :heavy_check_mark: Build a Killer Storyboard Portfolio
-2. :o: Storyboarding 2/E
+1. :heavy_check_mark: [Build a Killer Storyboard Portfolio](storyboarding/killer-storyboard-portfolio/)
+2. :o: [Storyboarding 2/E](storyboarding/storyboarding2e/)
 
-***
+### Reel Stories
 
-### What is Action / Comedy / Acting Storyboards
-
-#### Action Boards
-
-```text
-Have a combination of various camera angles and camera moves.
-It depends on what the script calls for.
-Persprectives can be pushed and camera angles can change rapidly.
-Camera pan, smash cuts. Montage of a series of fast cuts.
-Dutch angles, medium close ups, extreme closeup, 
-extreme low and high camera points of view and 3D camera moves often used.
-```
-
-#### Acting Boards
-
-```text
-Can have a variety of shots and camera moves previously mentioned.
-Staging is crucial with acting.
-Keeping close attention on the performance.
-Because the character's acting is the number one focus.
-While a character's posture can illustrate their mood.
-Acting tends to be betweeen the face and hands of the charcter.
-```
-
-### What to put in your portfolio
-
-1. Resume
-2. 8-10 pages Variety of storyboards
-   samples:
-   - Dramatic scene
-   - Comedic scene
-   - Cartoony
-   - TV
-   - Realistic
-   - Play to your strengths
-3. Thumbnail pages
-4. 3-5 pages of relevant supplemental materials
-   - Character designs
-   - Illustrations
-   - Comic work
-   - Layouts
+- :heavy_check_mark: [Reel Stories Master Class on Storyboarding with Nathan Stanton: Session 1](reel-stories-master-class/)
+- :o: [Reel Stories Master Class on Storyboarding with Nathan Stanton: Session 2](reel-stories-master-class/)
 
 ***
 

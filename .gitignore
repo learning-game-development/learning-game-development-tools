@@ -1,2 +1,11 @@
 # VSCode workspace
 *.code-workspace
+
+# Krita
+*.kra~
+*.png~
+*.jpg~
+*.jpeg~
+*.gif~
+*.bmp~
+*.svg~

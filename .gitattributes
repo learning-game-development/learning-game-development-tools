@@ -11,8 +11,13 @@ LICENSE         text
 *.aseprite  binary
 *.ase       binary
 
-## Graphics
-*.gif  binary
-*.jpg  binary
-*.jpeg binary
-*.png  binary
+# Krita
+*.kra   binary
+
+## Image formats
+*.gif   binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.bmp   binary
+*.svg   binary

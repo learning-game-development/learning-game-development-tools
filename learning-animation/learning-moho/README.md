@@ -5,7 +5,7 @@
 
 ## :beginner: Online Courses
 
-1. :o: [Introductory Tutorial](/) -- PDF
+1. :o: [Introductory Tutorial](introductory-tutorial/) -- PDF
 2. :o: [Learning Moho from Beginner to Expert Course](beginner-to-expert-course/) -- Free Video Course
 
 ## Moho Webinars
