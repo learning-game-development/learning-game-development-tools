@@ -8,3 +8,11 @@
 - Sound, color, and production pipelines
 - Basic animation principles
 - Fundamental animation skills
+
+## Module 2 – Work & Career in the Modern Industry
+
+- Finding Inspiration
+- Concepting & Pre-Production
+- Logistics & Producing
+- Non-Animation Design & Styling
+- Post-Production
