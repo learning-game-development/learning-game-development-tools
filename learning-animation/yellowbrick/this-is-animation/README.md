@@ -29,6 +29,11 @@
 - Post-Production Workflows
 - Working Toward “Picture Lock”
 
+## Module 5 – Pulling It All Together
+
+- “Picture Lock” & After
+- Marketing & Business Strategy
+
 ***
 
 ## Other Concepts

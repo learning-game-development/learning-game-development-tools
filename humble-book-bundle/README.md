@@ -49,7 +49,7 @@
 - Learn Modern OpenGL Programming
 - :o: [Create a Game Character: Blender, Substance Painter, and Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 - Level Up Your CSS Animation Skills
-- [Learn the Foundations of Blender](/) :rocket:
+- :o: [Learn the Foundations of Blender](/) :rocket:
 - Introduction to 3D Character Animation in Unreal Engine 4
 - OpenGL and GLSL Fundamentals with C++ (practical course)
 - Godot Engine Game Development Projects

@@ -16,3 +16,10 @@
 - Logistics & Producing
 - Non-Animation Design & Styling
 - Post-Production
+
+## The 2D Animation Pipeline
+
+- Development & Pre-Production
+- Directing & Voice Performance
+- Elements of Animation: Characters, Backgrounds & Effects
+- Post-Production & Finishing
