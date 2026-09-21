@@ -7,7 +7,7 @@
 
 1. :o: [The Basics of 2D Animation](/) -- 21Draw.com
 2. :heavy_check_mark: [This Is Animation​](yellowbrick/this-is-animation/) -- Yellowbrick.co
-3. :o: [Animation Industry Essentials](yellowbrick/animation-industry-essentials/) -- Yellowbrick.co
+3. :heavy_check_mark: [Animation Industry Essentials](yellowbrick/animation-industry-essentials/) -- Yellowbrick.co
 
 ### Resources
 

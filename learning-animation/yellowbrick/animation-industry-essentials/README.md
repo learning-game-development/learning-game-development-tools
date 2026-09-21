@@ -23,3 +23,21 @@
 - Directing & Voice Performance
 - Elements of Animation: Characters, Backgrounds & Effects
 - Post-Production & Finishing
+
+## The 3D Animation Pipeline
+
+- Differences & Similarities of 2D vs. 3D
+- 3D Surfaces & Geometry
+- Rigging & Modeling
+- Animating in 3D Environments
+- SFX, VFX & Rendering
+- Animating for Games & Interactive Media
+
+## Pressure & Opportunity: Business & Marketing in Animation
+
+- Identifying an Audience
+- Personal Brand
+- Financing a Project
+- Developing the Portfolio
+- Getting the Job & Working in Teams
+- Building the Pitchbook
